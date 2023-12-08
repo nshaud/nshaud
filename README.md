@@ -15,11 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Nicolas Audebert (*he/him*), PhD, associate professor of computer science and computer vision/machine learning researcher. Most of the time, you can find me at work in of the beautiful buildings of [Conservatoire national des arts et métiers](https://www.cnam.eu/presentation/) in the French capital.
+<img alt="Main building of IGN in Saint-Mandé, near Paris." width=400 src="https://lauracarducci.fr/laura/wp-content/uploads/2016/07/ign11V.jpg" align="left">
+I'm Nicolas Audebert (*he/him*), PhD, junior research director in Artificial Intelligence. In short, I am a computer scientist and computer vision/machine learning researcher. Most of the time, you can find me at work at the French [National Institute of Geographical and Forest Information](https://www.ign.fr/institut/identity-card) (IGN) in the [LASTIG](https://www.umr-lastig.fr/) laboratory, just outside of the French capital. I lead a research project on the design and application of better generative models for Earth Observation data.
 
-<img alt="The main entrance of the conservatory" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/P1020032_Paris_III_CNAM_entr%C3%A9e_rue_Saint-Martin_reductwk.JPG/260px-P1020032_Paris_III_CNAM_entr%C3%A9e_rue_Saint-Martin_reductwk.JPG" align="left">
 
-🌐 **[Website](https://nicolas.audebert.at/)** — 🖥️  **[CEDRIC laboratory page](http://cedric.cnam.fr/lab/en/author/audebern/)** — 📜 **[Publications on Google Scholar](https://scholar.google.com/citations?user=_z5vXUcAAAAJ)**
+I was previously an associate professor at [Conservatoire national des arts et métiers](https://www.cnam.eu/presentation/) and am currently on leave from this position.
+
+🌐 **[Website](https://nicolas.audebert.at/)** — 🖥️  **[Previous laboratory page](http://cedric.cnam.fr/lab/en/author/audebern/)** — 📜 **[Publications on Google Scholar](https://scholar.google.com/citations?user=_z5vXUcAAAAJ)**
 
 ## 🔭 What do I do
 
