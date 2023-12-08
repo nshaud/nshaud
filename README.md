@@ -16,8 +16,11 @@ Here are some ideas to get you started:
 -->
 
 <img alt="Main building of IGN in Saint-Mandé, near Paris." width=400 src="https://lauracarducci.fr/laura/wp-content/uploads/2016/07/ign11V.jpg" align="left">
-I'm Nicolas Audebert (*he/him*), PhD, junior research director in Artificial Intelligence. In short, I am a computer scientist and computer vision/machine learning researcher. Most of the time, you can find me at work at the French [National Institute of Geographical and Forest Information](https://www.ign.fr/institut/identity-card) (IGN) in the [LASTIG](https://www.umr-lastig.fr/) laboratory, just outside of the French capital. I lead a research project on the design and application of better generative models for Earth Observation data.
+I'm Nicolas Audebert (*he/him*), PhD, junior research director in Artificial Intelligence.
+In short, I am a computer scientist and computer vision/machine learning researcher.
 
+Most of the time, you can find me at work at the French [National Institute of Geographical and Forest Information](https://www.ign.fr/institut/identity-card) (IGN) in the [LASTIG](https://www.umr-lastig.fr/) laboratory, just outside of the French capital.
+I lead a research project on the design and application of better generative models for Earth Observation data.
 
 I was previously an associate professor at [Conservatoire national des arts et métiers](https://www.cnam.eu/presentation/) and am currently on leave from this position.
 
