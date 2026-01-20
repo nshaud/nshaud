@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img alt="Main building of IGN in Saint-Mandé, near Paris." width=400 src="https://lauracarducci.fr/laura/wp-content/uploads/2016/07/ign11V.jpg" align="left">
+<img alt="Main building of Géodata Paris school and research lab in Champs-sur-Marne, near Paris." width=100% src="https://geodata-paris.fr/files/ensg/styles/1240_330/public/2023-02/batiment_ensg.jpg" align="left">
+
 I'm Nicolas Audebert (*he/him*), PhD, junior research director in Artificial Intelligence.
 In short, I am a computer scientist and computer vision/machine learning researcher.
 
@@ -34,8 +35,8 @@ I was previously an associate professor at [Conservatoire national des arts et m
 
 ## 📫 Contact me
 
-I am available via a plethora of means: email, snail mail, phone. You can find me on [Twitter](https://twitter.com/nshaud) and on [LinkedIn](https://www.linkedin.com/in/nicolas-audebert-phd/). Check out my [website](https://nicolas.audebert.at/) to find out more on how to contact me. If you cold email me, be sure to include why I am relevant to your request!
+I am available via a plethora of means: email, snail mail, phone. You can find me on [Bluesky](https://bsky.app/profile/nshaud.bsky.social) and on [Mastodon](https://mastodon.social/@nsh). Check out my [website](https://nicolas.audebert.at/) to find out more on how to contact me. If you cold email me, be sure to include why I am relevant to your request!
 
 ## ⚡ Fun stuff
 
-In my spare time, I like to play tabletop role-playing games 🎲, video games 🎮, read comics and fictions 📚. I've also recently picked-up theater as a hobby! 🎭
+In my spare time, I like to play tabletop role-playing games 🎲, video games 🎮, read comics and fictions 📚. I also perform on-stage in theater plays and improv. 🎭
